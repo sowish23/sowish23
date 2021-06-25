@@ -2,7 +2,7 @@
 
 ### ☎️ Contact
 
-<img src="https://img.shields.io/badge/soso2266@kookmin.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/@sowish23-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/soso2266@kookmin.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/@so_wish23-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 
 ### 🛠️ Stacks
 
