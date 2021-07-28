@@ -2,7 +2,8 @@
 
 ### ☎️ Contact
 
-<img src="https://img.shields.io/badge/soso2266@kookmin.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/@so_wish23-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soso2266@kookmin.ac.kr)](mailto:soso2266@kookmin.ac.kr)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=amazon-aws&link=https://sowish.tistory.com/)](https://sowish.tistory.com/)
 
 ### 🛠️ Stacks
 
