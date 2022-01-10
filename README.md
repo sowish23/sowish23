@@ -13,7 +13,8 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/>
 
-### 🧳 Career
+<!-- ### 🧳 Career
 
 - 채운 병 - 프론트엔드 개발 ( 2019.09 ~ 2020.11 )
 - 프로체인 - 이미지 인식 웹앱 개발 ( 2021.03 ~ 2021.07 )
+ -->
